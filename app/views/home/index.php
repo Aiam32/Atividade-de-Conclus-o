@@ -61,7 +61,7 @@
                     <strong>Reformulado</strong>
                 </h4>
                 <p class="text-faded mb-0">
-                <div>Atualizado em Bootstrap</div>
+                <div>Atualizado para o Bootstrap</div>
                 </p>
             </div>
             <div class=" col-lg-3 col-md-6 mb-5 mb-md-0">
