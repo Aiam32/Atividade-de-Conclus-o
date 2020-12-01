@@ -24,7 +24,7 @@
     <div class="container text-center">
         <div class="row">
             <div class="col-lg-10 mx-auto">
-                <h2>Portfólio com estilo é o seu próximo projecto!</h2>
+                <h2>Portfólio com estilo é o seu próximo projeto!</h2>
                 <p class="lead mb-5">Este tema apresenta uma flexibilidade em UX. Acompanhe nosso parceiro em fotos
                     <a href="https://www.pexels.com/pt-br/">Pexels</a>!
                 </p>
